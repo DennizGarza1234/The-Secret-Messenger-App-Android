@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Secret Message App</string>
+    <string name="title">Secret Message App</string>
+    <string name="hint_message">Enter secret message</string>
+    <string name="button_send">Send Secret Message</string>
+    <string name="message_placeholder">Message appears here</string>
+    <string name="back_button">Back</string>
+</resources>
